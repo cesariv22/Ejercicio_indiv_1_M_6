@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Ejercicio_indiv_1_M_6</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="first_fragment_label">Registro de Usuarios</string>
+    <string name="title">Game App</string>
+    <string name="alias">Alias</string>
+    <string name="user_name">Nombre y Apellido</string>
+    <string name="age">Edad</string>
+    <string name="btn_add">Agregar</string>
+    <string name="btn_delete">Borrar</string>
+    <string name="btn_show_all">Usuarios</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    //String Item
+    <string name="alias_item">Alias: </string>
+    <string name="user_alias">n/n</string>
+    <string name="age_item">Edad: </string>
+    <string name="user_age">n/n</string>
+
+</resources>
